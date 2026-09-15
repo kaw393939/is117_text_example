@@ -1,1 +1,1 @@
-# is117_text_example
+# IS 117 Basic Commands for GIT and Linux
